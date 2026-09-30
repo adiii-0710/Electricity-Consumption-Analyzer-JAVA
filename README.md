@@ -116,19 +116,22 @@ The system comes pre-initialized with 10 customer records to demonstrate full an
 ## 6. Screenshots & Visual Demonstrations
 
 ### 6.1 Main Menu & Initialization
-![Main Menu Screen](file:///Users/aditya/Major_2nd(1st_unit)/JAVA/screenshot_main_menu.jpg)
+![Main Menu Screen]<img width="526" height="220" alt="Screenshot 2026-09-30 at 4 58 58 PM" src="https://github.com/user-attachments/assets/3e4c7383-d895-4eb6-adeb-65d1533681f3" />
+
 *Figure 6.1: Program Startup showing sample data initialization and main menu (Options 1–7).*
 
 ---
 
 ### 6.2 Electricity Analysis Report (Module 5)
-![Analysis Report Screen](file:///Users/aditya/Major_2nd(1st_unit)/JAVA/screenshot_analysis_report.jpg)
+![Analysis Report Screen]<img width="540" height="318" alt="Screenshot 2026-09-30 at 4 59 53 PM" src="https://github.com/user-attachments/assets/83325ecd-b337-48c8-940e-ce258a2b0ca3" />
+
 *Figure 6.2: Module 5 Output showing tabular customer listing and summary metrics.*
 
 ---
 
 ### 6.3 High-Consumption Detection (Module 4)
-![High Usage Detection Screen](file:///Users/aditya/Major_2nd(1st_unit)/JAVA/screenshot_high_usage.jpg)
+![High Usage Detection Screen]<img width="354" height="95" alt="Screenshot 2026-09-30 at 5 00 30 PM" src="https://github.com/user-attachments/assets/277e9ab0-3409-45be-ac29-fe6a4348888d" />
+
 *Figure 6.3: Module 4 Output identifying customer accounts exceeding the 500.0 kWh threshold.*
 
 ---
